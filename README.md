@@ -1,2 +1,2 @@
-# slicenet_mec_v2
-Non GPU version of MEC application
+# slicenet_mec_v2_gpu
+GPU version the MEC application
